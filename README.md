@@ -1,4 +1,5 @@
-#Files from the Open PPCG Minecraft Server
+Files from the Open PPCG Minecraft Server
+---
 
 They record the server as of 3/14/2017.
 
